@@ -12,7 +12,7 @@ negativi = 0
 
 # ciclo infinito finché l'utente non inserisce 0
 while True:
-    numero = int(input("inserisci un numero intero (0 per terminare): "))
+    numero = int(input("inserisci un numero intero oppure inserisci 0 per terminare: "))
     
     # se l'utente inserisce 0,  il ciclo si interrompe
     if numero == 0:
@@ -50,6 +50,7 @@ numero_lettere = 0
 vocali = "aeiouAEIOU"
 conteggio_vocali = 0 
 conteggio_consonanti = 0
+
 
 # ciclo for per scorrere ogni lettera della parola
 for lettera in parola:
