@@ -13,10 +13,12 @@ class Giocatore(MembroSquadra):
     # il giocatore riponde ai comandi imposti dall'allenatore    
     def rispondi_comando(self, comando: str):
         print(f"{self.nome} risponde: eseguo '{comando}!'")
+        
     # viene eseguita un'azione random tra quelli presenti nella lista
     def gioca_partita(self):
         azione = random.choice(["tira in porta", "passa la palla", "dribbla un avversario"])
         print(f"{self.nome} {azione} come {self.ruolo}!")
+        
     # viene tenuto il conteggio dei goal fatti -> è un normale contatore
     def segna_goal(self):
         self.goal += 1
