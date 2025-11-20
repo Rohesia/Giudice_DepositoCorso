@@ -17,7 +17,7 @@ def avvia_menu_teatro(teatro: Teatro):
         fila = input("Inserisci la fila del posto da liberare: ").strip().upper()
         numero = input("Inserisci il numero del posto da liberare: ").strip()
         if numero.isdigit():
-            for posto in teatro._posti:
+            for posto in teatro.__posti:
                 if posto.get_fila() == fila and posto.get_numero() == int(numero):
                     posto.libera()
                     return
