@@ -20,10 +20,12 @@ class Dipendente(Persona, Persona.Accesso):
         if not self.__badge:
             log.registra_errore(f"{self.get_nome_completo()} non ha badge")
             return
+        
         if not self.__badge.verifica_accesso():
             log.registra_errore(f"Accesso negato a {self.get_nome_completo()}")
             self.avvisa_supervisore()
             return
+        
         turno_valido = any(t.controllo_orario(ora_corrente) for t in self.__turni)
         if not turno_valido:
             log.registra_errore(f"{self.get_nome_completo()} fuori orario")

@@ -1,0 +1,1 @@
+questo è un esempio di scrittura su file
