@@ -63,3 +63,34 @@ print(sottoarray)
 matrice[np.ix_(righe_sottoarray, colonne_sottoarray)] = 99
 print("\nMatrice modificata (sottoarray diventano 99):")
 print(matrice)
+
+# ---------------------------------
+# Matrice 6 * 6
+# ---------------------------------
+
+
+# --- 1. Creazione di una matrice 6x6 di numeri casuali tra 1 e 100 ---
+mat = np.random.randint(1, 101, size=(6, 6))
+print("Matrice originale:")
+print(mat)
+
+# --- 2. Estrazione della sotto-matrice centrale ---
+s_mat = mat[1:5, 1:5]
+print("\nSotto-matrice centrale:")
+print(s_mat)
+
+# --- 3. Inversione delle righe della sotto-matrice ---
+mat_inv = s_mat[::-1, :]
+print("\nSotto-matrice con righe invertite:")
+print(mat_inv)
+
+# --- 4. Estrazione della diagonale principale ---
+diagonale = np.diag(mat_inv)
+print("\nDiagonale principale:")
+print(diagonale)
+
+# --- 5. Sostituzione degli elementi multipli di 3 con -1 ---
+mod = mat_inv.copy()  
+mod[mod % 3 == 0] = -1
+print("\nMatrice invertita con multipli di 3 sostituiti da -1:")
+print(mod)
