@@ -34,3 +34,5 @@ for i in range(len(numbers)):
         filtered.append(first)
 
 print(filtered)
+
+
