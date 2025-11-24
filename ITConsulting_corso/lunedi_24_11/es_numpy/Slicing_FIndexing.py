@@ -29,3 +29,37 @@ print(arr_terzo)
 arr[5:10] = 99
 print("\nArray modificato: ora gli elementi dall'indice 5 all'indice 9 valgono 99")
 print(arr)
+
+
+# ---------------------------------
+# Matrice 
+# ---------------------------------
+
+# matrice di numeri casuali tra 10 e 50
+matrice = np.random.randint(10, 51, size=(4, 5))
+print("\nMatrice originale 4x5:")
+print(matrice)
+
+# prime due righe 
+indici_righe = [0, 1]
+righe_iniziali = matrice[indici_righe, :]
+print("\nPrime due righe (fancy indexing):")
+print(righe_iniziali)
+
+# ultime colonne
+indici_colonne = [3, 4]
+colonne_finali = matrice[:, indici_colonne]
+print("\nUltime due colonne (fancy indexing):")
+print(colonne_finali)
+
+# Sottoarray centrale
+righe_sottoarray = [1, 2]
+colonne_sottoarray = [1, 2, 3]
+sottoarray = matrice[np.ix_(righe_sottoarray, colonne_sottoarray)]
+print("\nSottoarray centrale:")
+print(sottoarray)
+
+# Modifica 
+matrice[np.ix_(righe_sottoarray, colonne_sottoarray)] = 99
+print("\nMatrice modificata (sottoarray diventano 99):")
+print(matrice)
