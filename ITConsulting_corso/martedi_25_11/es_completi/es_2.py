@@ -1,5 +1,7 @@
+# esercizio 2
 import numpy as np 
 
+# matrice di valori 1, 25 con dimensione 5x5
 mat = np.arange(1, 26).reshape(5, 5)
 print("Matrice 5x5:\n", mat)
 

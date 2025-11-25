@@ -1,3 +1,5 @@
+# esercizio 1
+
 import numpy as np
 
 # 1. Creare un array di 15 numeri casuali tra 1 e 100
