@@ -1,0 +1,12 @@
+Creazione matrice (4x3):
+[[26 31 53]
+ [77 51 40]
+ [10 73 25]
+ [46 31 69]]
+Sotto-matrice centrale:
+[]
+Matrice trasposta: [[26 31 53]
+ [77 51 40]
+ [10 73 25]
+ [46 31 69]]
+somma elementi: 532
