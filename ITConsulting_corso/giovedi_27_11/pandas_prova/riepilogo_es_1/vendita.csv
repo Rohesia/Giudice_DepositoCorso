@@ -1,0 +1,1001 @@
+ID_Vendita,Data_Vendita,Prodotto,Categoria,Città,Quantità,Prezzo_Unitario,Totale_Vendite
+1,2025-04-13,Tablet,Networking,Palermo,48,1628.62,78173.76
+2,2025-12-15,Laptop,Accessori,Napoli,26,702.71,18270.46
+3,2025-09-28,Tastiera,Accessori,Genova,12,407.39,4888.68
+4,2025-04-17,Smartphone,Periferiche,Palermo,11,1597.13,17568.43
+5,2025-03-13,Router,Periferiche,Napoli,37,1506.27,55731.99
+6,2025-07-08,Webcam,Networking,Firenze,25,464.8,11620.0
+7,2025-01-21,Stampante,Accessori,Genova,18,1768.75,31837.5
+8,2025-04-13,Mouse,Accessori,Verona,19,1148.83,21827.769999999997
+9,2025-05-02,Webcam,Accessori,Bologna,23,1676.05,38549.15
+10,2025-08-03,Smartphone,Accessori,Venezia,38,2096.67,79673.46
+11,2025-11-27,Router,Accessori,Torino,18,440.93,7936.74
+12,2025-03-29,Smartphone,Elettronica,Venezia,26,67.48,1754.48
+13,2025-04-10,Monitor,Periferiche,Genova,6,1952.17,11713.02
+14,2025-12-26,Laptop,Elettronica,Verona,4,1532.05,6128.2
+15,2025-06-01,Stampante,Accessori,Bologna,44,1755.11,77224.84
+16,2025-05-11,Hard Disk,Networking,Verona,29,2098.62,60859.979999999996
+17,2025-05-30,Laptop,Networking,Palermo,34,2010.97,68372.98
+18,2025-11-05,Hard Disk,Accessori,Bologna,17,2403.08,40852.36
+19,2025-09-15,Router,Accessori,Palermo,43,1349.12,58012.159999999996
+20,2025-12-10,Tastiera,Networking,Napoli,43,1231.47,52953.21
+21,2025-10-21,Mouse,Elettronica,Genova,16,1016.68,16266.88
+22,2025-07-11,Tablet,Elettronica,Napoli,2,401.15,802.3
+23,2025-10-04,Laptop,Accessori,Roma,34,1440.07,48962.38
+24,2025-06-10,Stampante,Elettronica,Verona,8,706.99,5655.92
+25,2025-11-10,Smartphone,Networking,Palermo,13,2304.84,29962.920000000002
+26,2025-01-22,Stampante,Elettronica,Firenze,42,1466.31,61585.02
+27,2025-09-10,Router,Accessori,Napoli,8,1490.24,11921.92
+28,2025-08-24,Hard Disk,Networking,Roma,30,900.21,27006.300000000003
+29,2025-12-11,Smartphone,Elettronica,Milano,32,148.93,4765.76
+30,2025-02-18,Tablet,Periferiche,Venezia,36,98.72,3553.92
+31,2025-02-28,Tablet,Networking,Bologna,47,1069.87,50283.88999999999
+32,2025-06-19,Laptop,Networking,Roma,30,229.72,6891.6
+33,2025-07-07,Router,Periferiche,Genova,1,1524.98,1524.98
+34,2025-09-28,Tastiera,Periferiche,Napoli,43,2204.81,94806.83
+35,2025-07-09,Router,Networking,Genova,39,2209.63,86175.57
+36,2025-06-24,Hard Disk,Periferiche,Venezia,17,1654.43,28125.31
+37,2025-02-20,Stampante,Accessori,Firenze,20,543.85,10877.0
+38,2025-12-30,Tablet,Accessori,Verona,24,2160.23,51845.520000000004
+39,2025-02-24,Stampante,Accessori,Verona,22,2217.51,48785.22
+40,2025-09-01,Stampante,Networking,Genova,29,507.7,14723.3
+41,2025-11-16,Stampante,Periferiche,Palermo,22,1848.82,40674.04
+42,2025-05-11,Tablet,Periferiche,Firenze,44,730.57,32145.08
+43,2025-11-03,Webcam,Elettronica,Verona,9,2010.55,18094.95
+44,2025-05-15,Monitor,Elettronica,Firenze,37,2493.15,92246.55
+45,2025-01-21,Hard Disk,Periferiche,Roma,10,94.46,944.5999999999999
+46,2025-11-25,Webcam,Periferiche,Firenze,36,2245.47,80836.92
+47,2025-06-16,Hard Disk,Periferiche,Torino,37,1564.12,57872.439999999995
+48,2025-10-01,Smartphone,Networking,Venezia,28,2433.99,68151.72
+49,2025-03-30,Router,Periferiche,Verona,28,1173.22,32850.16
+50,2025-11-12,Router,Elettronica,Firenze,42,2121.52,89103.84
+51,2025-01-14,Mouse,Networking,Genova,43,174.74,7513.820000000001
+52,2025-08-30,Router,Periferiche,Milano,21,851.49,17881.29
+53,2025-09-22,Tablet,Elettronica,Torino,24,186.2,4468.799999999999
+54,2025-12-12,Tastiera,Networking,Torino,42,2438.85,102431.7
+55,2025-02-22,Laptop,Periferiche,Palermo,40,2046.1,81844.0
+56,2025-12-06,Mouse,Periferiche,Firenze,2,2134.32,4268.64
+57,2025-04-02,Laptop,Periferiche,Palermo,8,2346.15,18769.2
+58,2025-09-21,Hard Disk,Networking,Palermo,48,231.06,11090.880000000001
+59,2025-02-04,Laptop,Elettronica,Milano,27,976.28,26359.559999999998
+60,2025-07-25,Laptop,Elettronica,Roma,22,196.17,4315.74
+61,2025-03-22,Mouse,Accessori,Firenze,37,542.77,20082.489999999998
+62,2025-02-19,Smartphone,Periferiche,Napoli,27,588.83,15898.410000000002
+63,2025-12-26,Stampante,Accessori,Verona,29,1183.39,34318.310000000005
+64,2025-01-02,Router,Accessori,Palermo,3,686.03,2058.09
+65,2025-02-23,Router,Elettronica,Venezia,44,270.43,11898.92
+66,2025-04-16,Tablet,Networking,Bologna,13,435.38,5659.94
+67,2025-09-17,Mouse,Networking,Venezia,45,385.24,17335.8
+68,2025-11-06,Tablet,Elettronica,Milano,10,2433.23,24332.3
+69,2025-07-10,Tastiera,Networking,Milano,36,1903.05,68509.8
+70,2025-08-06,Tastiera,Accessori,Genova,9,2420.05,21780.45
+71,2025-02-13,Tablet,Periferiche,Roma,27,1110.56,29985.12
+72,2025-06-11,Mouse,Elettronica,Verona,34,710.35,24151.9
+73,2025-07-21,Tablet,Periferiche,Palermo,1,1999.77,1999.77
+74,2025-09-27,Router,Networking,Venezia,32,829.11,26531.52
+75,2025-12-17,Webcam,Periferiche,Bologna,25,762.47,19061.75
+76,2025-10-31,Monitor,Networking,Milano,29,596.61,17301.69
+77,2025-09-28,Laptop,Networking,Milano,7,341.6,2391.2000000000003
+78,2025-08-03,Monitor,Accessori,Roma,49,656.03,32145.469999999998
+79,2025-09-09,Mouse,Networking,Bologna,3,901.19,2703.57
+80,2025-07-09,Monitor,Accessori,Bologna,20,1691.51,33830.2
+81,2025-10-23,Tastiera,Accessori,Roma,20,175.16,3503.2
+82,2025-08-01,Hard Disk,Accessori,Milano,30,542.06,16261.8
+83,2025-07-27,Laptop,Elettronica,Verona,35,2026.38,70923.3
+84,2025-08-25,Stampante,Elettronica,Firenze,35,384.37,13452.95
+85,2025-12-04,Mouse,Networking,Firenze,49,869.76,42618.24
+86,2025-02-22,Laptop,Accessori,Roma,39,2164.35,84409.65
+87,2025-10-07,Monitor,Elettronica,Bologna,27,404.21,10913.67
+88,2025-08-05,Tastiera,Accessori,Palermo,26,225.19,5854.94
+89,2025-09-09,Smartphone,Periferiche,Roma,14,1221.65,17103.100000000002
+90,2025-07-07,Webcam,Periferiche,Verona,17,770.0,13090.0
+91,2025-02-10,Stampante,Periferiche,Roma,18,1417.25,25510.5
+92,2025-06-06,Webcam,Networking,Torino,45,2013.44,90604.8
+93,2025-01-15,Laptop,Accessori,Venezia,29,360.13,10443.77
+94,2025-10-28,Tastiera,Periferiche,Bologna,20,1460.13,29202.600000000002
+95,2025-03-06,Tastiera,Elettronica,Genova,27,1273.66,34388.82
+96,2025-12-11,Monitor,Periferiche,Genova,18,377.32,6791.76
+97,2025-11-23,Router,Periferiche,Bologna,4,1567.52,6270.08
+98,2025-01-09,Monitor,Periferiche,Verona,1,698.63,698.63
+99,2025-12-10,Router,Networking,Torino,1,1229.83,1229.83
+100,2025-05-09,Router,Elettronica,Torino,26,224.04,5825.04
+101,2025-05-16,Stampante,Accessori,Milano,45,1159.77,52189.65
+102,2025-03-04,Monitor,Elettronica,Venezia,20,780.03,15600.599999999999
+103,2025-05-19,Smartphone,Accessori,Firenze,23,2059.51,47368.73
+104,2025-03-22,Tablet,Networking,Napoli,10,161.31,1613.1
+105,2025-06-12,Tablet,Networking,Verona,11,1058.15,11639.650000000001
+106,2025-10-16,Monitor,Networking,Napoli,41,1156.91,47433.310000000005
+107,2025-09-18,Monitor,Networking,Napoli,41,1818.02,74538.81999999999
+108,2025-08-19,Webcam,Accessori,Bologna,5,1444.23,7221.15
+109,2025-02-10,Stampante,Periferiche,Genova,1,1674.69,1674.69
+110,2025-01-28,Monitor,Accessori,Genova,17,1947.08,33100.36
+111,2025-05-15,Webcam,Elettronica,Firenze,22,2158.26,47481.72
+112,2025-07-20,Router,Networking,Bologna,34,798.41,27145.94
+113,2025-11-24,Tastiera,Networking,Napoli,45,1354.3,60943.5
+114,2025-09-25,Tastiera,Elettronica,Palermo,41,2103.47,86242.26999999999
+115,2025-02-02,Router,Accessori,Genova,29,2473.84,71741.36
+116,2025-02-17,Mouse,Periferiche,Verona,4,2226.01,8904.04
+117,2025-03-03,Webcam,Periferiche,Verona,5,941.24,4706.2
+118,2025-08-04,Webcam,Elettronica,Milano,11,504.01,5544.11
+119,2025-10-20,Router,Periferiche,Roma,21,1233.69,25907.49
+120,2025-04-09,Smartphone,Accessori,Palermo,35,1859.27,65074.45
+121,2025-06-21,Hard Disk,Accessori,Genova,12,1241.57,14898.84
+122,2025-12-26,Laptop,Elettronica,Torino,26,1218.29,31675.54
+123,2025-08-02,Router,Accessori,Genova,19,2098.81,39877.39
+124,2025-02-04,Monitor,Networking,Milano,45,916.28,41232.6
+125,2025-08-15,Monitor,Elettronica,Verona,7,2152.29,15066.029999999999
+126,2025-04-11,Stampante,Accessori,Napoli,47,1028.88,48357.36000000001
+127,2025-05-11,Router,Elettronica,Torino,7,834.02,5838.139999999999
+128,2025-09-14,Stampante,Periferiche,Bologna,26,1145.89,29793.140000000003
+129,2025-01-05,Router,Accessori,Venezia,40,1910.87,76434.79999999999
+130,2025-08-06,Webcam,Networking,Napoli,5,332.49,1662.45
+131,2025-09-12,Laptop,Accessori,Venezia,21,507.12,10649.52
+132,2025-12-25,Webcam,Elettronica,Palermo,14,2379.58,33314.119999999995
+133,2025-10-10,Hard Disk,Elettronica,Roma,4,455.22,1820.88
+134,2025-07-26,Tastiera,Accessori,Torino,23,1427.96,32843.08
+135,2025-01-15,Tablet,Networking,Firenze,42,1456.7,61181.4
+136,2025-12-12,Router,Networking,Torino,20,1234.27,24685.4
+137,2025-02-11,Hard Disk,Networking,Genova,15,1618.97,24284.55
+138,2025-06-28,Tastiera,Elettronica,Verona,45,589.97,26548.65
+139,2025-03-04,Mouse,Accessori,Genova,29,1390.6,40327.399999999994
+140,2025-12-18,Laptop,Periferiche,Genova,8,942.99,7543.92
+141,2025-08-19,Stampante,Elettronica,Palermo,41,1660.93,68098.13
+142,2025-08-29,Stampante,Networking,Napoli,48,370.23,17771.04
+143,2025-02-21,Webcam,Accessori,Firenze,19,1435.78,27279.82
+144,2025-04-06,Monitor,Networking,Firenze,48,479.47,23014.56
+145,2025-08-10,Tastiera,Periferiche,Genova,39,711.03,27730.17
+146,2025-08-19,Mouse,Networking,Venezia,46,562.4,25870.399999999998
+147,2025-08-25,Hard Disk,Networking,Palermo,28,473.44,13256.32
+148,2025-05-23,Laptop,Periferiche,Genova,46,2067.76,95116.96
+149,2025-06-20,Tastiera,Accessori,Roma,27,728.55,19670.85
+150,2025-01-29,Mouse,Elettronica,Verona,4,2319.27,9277.08
+151,2025-02-05,Tablet,Accessori,Napoli,15,2425.42,36381.3
+152,2025-01-13,Router,Periferiche,Bologna,35,1436.73,50285.55
+153,2025-06-09,Stampante,Networking,Roma,37,374.64,13861.68
+154,2025-11-23,Hard Disk,Accessori,Venezia,1,948.88,948.88
+155,2025-07-06,Stampante,Elettronica,Torino,3,1998.38,5995.14
+156,2025-08-31,Hard Disk,Periferiche,Torino,47,931.13,43763.11
+157,2025-03-27,Webcam,Accessori,Roma,24,235.8,5659.200000000001
+158,2025-10-11,Monitor,Elettronica,Genova,27,1400.83,37822.409999999996
+159,2025-03-07,Hard Disk,Periferiche,Bologna,40,2115.9,84636.0
+160,2025-06-19,Stampante,Elettronica,Milano,36,1993.9,71780.40000000001
+161,2025-02-14,Webcam,Periferiche,Milano,34,454.31,15446.54
+162,2025-03-03,Hard Disk,Networking,Venezia,29,1688.46,48965.340000000004
+163,2025-05-14,Tablet,Accessori,Genova,24,566.85,13604.400000000001
+164,2025-10-11,Monitor,Elettronica,Firenze,24,561.15,13467.599999999999
+165,2025-01-28,Hard Disk,Periferiche,Firenze,42,2187.7,91883.4
+166,2025-04-18,Webcam,Elettronica,Napoli,4,639.18,2556.72
+167,2025-02-13,Tastiera,Elettronica,Bologna,3,672.85,2018.5500000000002
+168,2025-12-06,Smartphone,Accessori,Bologna,34,21.62,735.08
+169,2025-10-13,Mouse,Networking,Torino,49,2179.26,106783.74
+170,2025-11-27,Smartphone,Elettronica,Palermo,23,1985.64,45669.72
+171,2025-05-08,Smartphone,Periferiche,Venezia,23,1575.78,36242.94
+172,2025-12-14,Laptop,Periferiche,Milano,45,1880.66,84629.7
+173,2025-08-19,Tablet,Networking,Venezia,5,397.08,1985.3999999999999
+174,2025-07-09,Tastiera,Periferiche,Firenze,31,1156.64,35855.840000000004
+175,2025-08-13,Router,Networking,Firenze,41,891.02,36531.82
+176,2025-10-10,Hard Disk,Periferiche,Roma,6,252.57,1515.42
+177,2025-05-01,Mouse,Accessori,Napoli,37,1225.6,45347.2
+178,2025-04-26,Monitor,Elettronica,Bologna,10,2303.43,23034.3
+179,2025-08-21,Tastiera,Accessori,Verona,40,119.35,4774.0
+180,2025-09-16,Stampante,Elettronica,Venezia,7,742.82,5199.740000000001
+181,2025-12-25,Router,Elettronica,Firenze,39,534.7,20853.300000000003
+182,2025-07-17,Laptop,Elettronica,Palermo,38,610.6,23202.8
+183,2025-05-17,Laptop,Accessori,Torino,21,2272.92,47731.32
+184,2025-11-14,Tastiera,Elettronica,Milano,20,1180.81,23616.199999999997
+185,2025-06-14,Webcam,Accessori,Napoli,3,1176.42,3529.26
+186,2025-08-13,Smartphone,Networking,Palermo,22,1906.23,41937.06
+187,2025-11-03,Stampante,Periferiche,Napoli,47,403.14,18947.579999999998
+188,2025-08-22,Laptop,Periferiche,Roma,4,1228.42,4913.68
+189,2025-06-21,Mouse,Elettronica,Verona,28,1086.36,30418.079999999998
+190,2025-06-01,Laptop,Accessori,Firenze,12,1500.34,18004.079999999998
+191,2025-11-11,Monitor,Periferiche,Torino,38,2498.9,94958.2
+192,2025-06-09,Hard Disk,Accessori,Palermo,36,1928.23,69416.28
+193,2025-04-06,Laptop,Accessori,Napoli,47,1006.71,47315.37
+194,2025-08-21,Monitor,Elettronica,Bologna,41,2072.33,84965.53
+195,2025-06-29,Tastiera,Periferiche,Roma,5,443.36,2216.8
+196,2025-04-23,Tastiera,Elettronica,Bologna,13,95.55,1242.1499999999999
+197,2025-11-14,Router,Elettronica,Torino,23,527.03,12121.689999999999
+198,2025-02-21,Laptop,Periferiche,Palermo,30,864.22,25926.600000000002
+199,2025-09-25,Mouse,Periferiche,Roma,37,1286.24,47590.88
+200,2025-10-22,Laptop,Networking,Palermo,25,1545.52,38638.0
+201,2025-04-23,Mouse,Networking,Firenze,48,2278.3,109358.40000000001
+202,2025-04-11,Tablet,Accessori,Genova,27,1284.44,34679.880000000005
+203,2025-04-23,Router,Periferiche,Roma,14,1263.16,17684.24
+204,2025-03-22,Tablet,Networking,Bologna,48,144.6,6940.799999999999
+205,2025-07-06,Laptop,Accessori,Torino,47,106.58,5009.26
+206,2025-04-23,Router,Accessori,Verona,36,1386.88,49927.68000000001
+207,2025-01-02,Tablet,Accessori,Firenze,39,1106.68,43160.520000000004
+208,2025-05-10,Smartphone,Networking,Genova,16,2101.17,33618.72
+209,2025-08-08,Laptop,Periferiche,Verona,22,418.49,9206.78
+210,2025-02-23,Tablet,Elettronica,Milano,21,81.93,1720.5300000000002
+211,2025-12-09,Smartphone,Accessori,Firenze,21,1133.62,23806.019999999997
+212,2025-08-12,Smartphone,Networking,Torino,8,608.95,4871.6
+213,2025-08-13,Tastiera,Networking,Napoli,49,143.04,7008.96
+214,2025-05-06,Laptop,Elettronica,Roma,16,1817.0,29072.0
+215,2025-05-10,Smartphone,Elettronica,Palermo,31,296.75,9199.25
+216,2025-02-22,Tastiera,Networking,Torino,42,1528.63,64202.46000000001
+217,2025-06-21,Tablet,Periferiche,Roma,10,717.0,7170.0
+218,2025-08-06,Monitor,Elettronica,Verona,32,450.27,14408.64
+219,2025-06-09,Laptop,Networking,Palermo,34,961.78,32700.52
+220,2025-07-17,Router,Elettronica,Venezia,9,2007.59,18068.309999999998
+221,2025-09-04,Mouse,Periferiche,Bologna,17,992.39,16870.63
+222,2025-11-20,Mouse,Accessori,Milano,11,1881.91,20701.010000000002
+223,2025-07-22,Tablet,Elettronica,Firenze,32,331.21,10598.72
+224,2025-07-03,Webcam,Periferiche,Torino,10,1936.47,19364.7
+225,2025-05-03,Webcam,Networking,Milano,22,607.59,13366.980000000001
+226,2025-09-12,Tablet,Elettronica,Napoli,17,1699.93,28898.81
+227,2025-10-21,Smartphone,Elettronica,Roma,4,1423.14,5692.56
+228,2025-10-07,Laptop,Networking,Roma,48,2324.28,111565.44
+229,2025-11-21,Mouse,Accessori,Torino,47,980.56,46086.32
+230,2025-04-08,Mouse,Networking,Genova,25,184.09,4602.25
+231,2025-07-17,Smartphone,Elettronica,Genova,21,67.51,1417.71
+232,2025-08-28,Mouse,Networking,Venezia,37,2070.61,76612.57
+233,2025-05-24,Router,Periferiche,Bologna,38,1321.34,50210.92
+234,2025-04-07,Laptop,Networking,Palermo,49,1942.61,95187.89
+235,2025-07-20,Hard Disk,Elettronica,Napoli,1,601.38,601.38
+236,2025-05-04,Mouse,Networking,Milano,25,875.81,21895.25
+237,2025-07-06,Tablet,Accessori,Genova,36,94.66,3407.7599999999998
+238,2025-11-22,Router,Networking,Venezia,17,2404.5,40876.5
+239,2025-12-15,Mouse,Accessori,Venezia,41,1676.31,68728.70999999999
+240,2025-09-16,Router,Periferiche,Torino,24,2334.35,56024.399999999994
+241,2025-05-28,Tastiera,Accessori,Napoli,2,678.43,1356.86
+242,2025-09-09,Hard Disk,Networking,Verona,40,1536.43,61457.200000000004
+243,2025-12-12,Stampante,Elettronica,Palermo,15,1702.68,25540.2
+244,2025-05-27,Tablet,Accessori,Bologna,32,807.52,25840.64
+245,2025-05-28,Tablet,Periferiche,Firenze,39,2123.31,82809.09
+246,2025-12-18,Laptop,Accessori,Torino,6,2368.96,14213.76
+247,2025-07-18,Router,Accessori,Palermo,1,2214.44,2214.44
+248,2025-11-04,Smartphone,Accessori,Firenze,47,1852.89,87085.83
+249,2025-05-08,Tablet,Periferiche,Firenze,23,708.11,16286.53
+250,2025-02-08,Router,Networking,Napoli,39,718.41,28017.989999999998
+251,2025-12-04,Router,Accessori,Napoli,17,2409.13,40955.21
+252,2025-12-26,Monitor,Accessori,Milano,34,45.51,1547.34
+253,2025-05-09,Monitor,Elettronica,Venezia,41,1795.8,73627.8
+254,2025-09-24,Stampante,Periferiche,Palermo,29,1771.49,51373.21
+255,2025-05-31,Tastiera,Accessori,Torino,9,1564.27,14078.43
+256,2025-10-25,Stampante,Periferiche,Roma,13,2475.47,32181.109999999997
+257,2025-04-09,Mouse,Accessori,Torino,6,793.46,4760.76
+258,2025-09-20,Smartphone,Networking,Milano,6,863.13,5178.78
+259,2025-09-09,Mouse,Networking,Bologna,20,215.77,4315.400000000001
+260,2025-05-24,Webcam,Accessori,Venezia,3,1118.14,3354.42
+261,2025-12-12,Mouse,Networking,Roma,17,667.4,11345.8
+262,2025-04-22,Laptop,Accessori,Genova,49,871.6,42708.4
+263,2025-03-01,Mouse,Networking,Bologna,12,2089.74,25076.879999999997
+264,2025-01-02,Stampante,Elettronica,Napoli,48,2340.0,112320.0
+265,2025-10-31,Tablet,Elettronica,Firenze,47,480.62,22589.14
+266,2025-09-11,Tablet,Elettronica,Genova,45,943.82,42471.9
+267,2025-05-20,Monitor,Periferiche,Torino,1,2323.0,2323.0
+268,2025-02-06,Smartphone,Periferiche,Torino,17,173.28,2945.76
+269,2025-06-09,Smartphone,Elettronica,Napoli,3,249.05,747.1500000000001
+270,2025-01-09,Laptop,Periferiche,Milano,26,423.72,11016.720000000001
+271,2025-08-21,Stampante,Networking,Palermo,15,1496.13,22441.95
+272,2025-04-09,Monitor,Accessori,Genova,36,393.17,14154.12
+273,2025-05-27,Webcam,Accessori,Genova,32,2420.83,77466.56
+274,2025-10-31,Smartphone,Accessori,Verona,32,1127.85,36091.2
+275,2025-07-27,Tablet,Elettronica,Bologna,4,1263.76,5055.04
+276,2025-05-11,Mouse,Periferiche,Venezia,18,631.71,11370.78
+277,2025-06-01,Mouse,Networking,Bologna,49,1187.98,58211.020000000004
+278,2025-02-23,Monitor,Networking,Palermo,19,1661.55,31569.45
+279,2025-04-30,Stampante,Elettronica,Torino,43,1882.92,80965.56
+280,2025-06-10,Stampante,Networking,Torino,35,1889.59,66135.65
+281,2025-04-26,Tastiera,Networking,Torino,40,1453.17,58126.8
+282,2025-03-16,Hard Disk,Networking,Verona,14,2262.81,31679.34
+283,2025-04-23,Smartphone,Networking,Torino,33,2047.17,67556.61
+284,2025-04-14,Stampante,Periferiche,Palermo,14,1897.48,26564.72
+285,2025-12-06,Tablet,Networking,Napoli,34,157.9,5368.6
+286,2025-09-11,Monitor,Accessori,Venezia,4,37.06,148.24
+287,2025-08-15,Webcam,Elettronica,Palermo,24,546.87,13124.880000000001
+288,2025-04-22,Tastiera,Periferiche,Venezia,29,1665.54,48300.659999999996
+289,2025-04-09,Router,Networking,Palermo,19,1039.77,19755.63
+290,2025-06-02,Laptop,Periferiche,Torino,6,1017.97,6107.82
+291,2025-12-15,Webcam,Networking,Napoli,33,2213.78,73054.74
+292,2025-12-04,Router,Accessori,Genova,49,2241.0,109809.0
+293,2025-07-13,Mouse,Elettronica,Bologna,40,2274.75,90990.0
+294,2025-11-06,Laptop,Networking,Firenze,19,798.42,15169.98
+295,2025-06-12,Smartphone,Networking,Napoli,1,1733.82,1733.82
+296,2025-07-27,Tablet,Networking,Genova,5,693.65,3468.25
+297,2025-06-18,Laptop,Networking,Milano,27,492.71,13303.17
+298,2025-06-10,Hard Disk,Elettronica,Palermo,16,477.89,7646.24
+299,2025-03-09,Router,Elettronica,Milano,6,868.43,5210.58
+300,2025-10-16,Smartphone,Accessori,Genova,40,1086.29,43451.6
+301,2025-10-04,Hard Disk,Elettronica,Napoli,13,2080.75,27049.75
+302,2025-10-31,Mouse,Networking,Palermo,48,317.33,15231.84
+303,2025-05-15,Hard Disk,Accessori,Firenze,35,1842.62,64491.7
+304,2025-07-14,Tastiera,Accessori,Torino,19,1338.01,25422.19
+305,2025-05-08,Tastiera,Accessori,Palermo,12,734.1,8809.2
+306,2025-02-02,Monitor,Networking,Palermo,16,1242.19,19875.04
+307,2025-06-25,Webcam,Periferiche,Napoli,43,763.86,32845.98
+308,2025-01-22,Webcam,Networking,Napoli,10,1498.28,14982.8
+309,2025-08-26,Smartphone,Elettronica,Genova,25,1095.93,27398.25
+310,2025-06-07,Mouse,Elettronica,Roma,20,427.73,8554.6
+311,2025-02-07,Stampante,Networking,Palermo,31,309.13,9583.03
+312,2025-08-18,Tastiera,Networking,Bologna,4,1375.81,5503.24
+313,2025-12-31,Smartphone,Accessori,Palermo,44,2257.98,99351.12
+314,2025-02-20,Stampante,Networking,Genova,23,873.02,20079.46
+315,2025-09-21,Webcam,Accessori,Venezia,2,1837.84,3675.68
+316,2025-10-10,Monitor,Elettronica,Milano,22,1653.48,36376.56
+317,2025-01-27,Hard Disk,Accessori,Torino,37,2330.26,86219.62000000001
+318,2025-08-14,Tastiera,Networking,Roma,8,2056.03,16448.24
+319,2025-10-04,Smartphone,Elettronica,Firenze,7,1425.18,9976.26
+320,2025-10-13,Laptop,Periferiche,Firenze,14,1649.44,23092.16
+321,2025-04-07,Stampante,Accessori,Firenze,3,2248.0,6744.0
+322,2025-10-11,Hard Disk,Elettronica,Napoli,16,1010.81,16172.96
+323,2025-11-13,Tastiera,Accessori,Firenze,19,830.45,15778.550000000001
+324,2025-10-31,Webcam,Elettronica,Torino,18,46.81,842.58
+325,2025-05-27,Mouse,Elettronica,Milano,16,2069.85,33117.6
+326,2025-01-04,Stampante,Accessori,Firenze,8,2006.43,16051.44
+327,2025-02-04,Webcam,Periferiche,Palermo,33,279.05,9208.65
+328,2025-07-11,Tastiera,Elettronica,Palermo,49,1450.61,71079.89
+329,2025-02-18,Stampante,Elettronica,Napoli,12,1170.67,14048.04
+330,2025-01-17,Hard Disk,Elettronica,Torino,11,314.4,3458.3999999999996
+331,2025-06-21,Tastiera,Periferiche,Milano,5,2451.81,12259.05
+332,2025-08-08,Router,Periferiche,Roma,27,552.45,14916.150000000001
+333,2025-06-07,Smartphone,Networking,Genova,12,186.74,2240.88
+334,2025-02-15,Hard Disk,Accessori,Milano,17,1495.22,25418.74
+335,2025-01-06,Stampante,Periferiche,Genova,6,1852.39,11114.34
+336,2025-04-09,Mouse,Accessori,Venezia,33,100.46,3315.18
+337,2025-08-21,Webcam,Networking,Genova,5,1653.62,8268.099999999999
+338,2025-02-06,Laptop,Accessori,Bologna,28,1340.08,37522.24
+339,2025-10-07,Webcam,Periferiche,Palermo,14,276.1,3865.4000000000005
+340,2025-12-15,Stampante,Accessori,Torino,5,447.86,2239.3
+341,2025-10-29,Webcam,Periferiche,Verona,33,1428.58,47143.14
+342,2025-06-30,Smartphone,Accessori,Napoli,48,754.97,36238.56
+343,2025-04-05,Tastiera,Periferiche,Bologna,41,2347.02,96227.81999999999
+344,2025-04-09,Laptop,Periferiche,Genova,19,2050.48,38959.12
+345,2025-07-07,Tablet,Accessori,Firenze,22,2459.25,54103.5
+346,2025-04-26,Stampante,Networking,Torino,5,663.98,3319.9
+347,2025-07-10,Monitor,Elettronica,Bologna,2,2424.91,4849.82
+348,2025-09-10,Tablet,Networking,Napoli,30,1089.46,32683.800000000003
+349,2025-06-10,Webcam,Accessori,Palermo,47,881.85,41446.950000000004
+350,2025-09-13,Stampante,Networking,Torino,39,144.87,5649.93
+351,2025-11-19,Router,Periferiche,Napoli,4,150.86,603.44
+352,2025-05-08,Monitor,Elettronica,Venezia,33,1736.19,57294.270000000004
+353,2025-01-18,Laptop,Accessori,Venezia,13,1155.66,15023.580000000002
+354,2025-10-08,Mouse,Accessori,Napoli,20,581.77,11635.4
+355,2025-08-11,Router,Accessori,Bologna,7,1542.65,10798.550000000001
+356,2025-02-23,Tablet,Elettronica,Torino,15,647.09,9706.35
+357,2025-02-27,Tastiera,Periferiche,Bologna,23,1452.53,33408.19
+358,2025-11-19,Smartphone,Accessori,Roma,14,910.84,12751.76
+359,2025-12-26,Mouse,Networking,Genova,23,2062.41,47435.42999999999
+360,2025-06-23,Router,Accessori,Roma,19,2055.33,39051.27
+361,2025-10-07,Tastiera,Accessori,Venezia,29,1203.83,34911.07
+362,2025-04-24,Tastiera,Accessori,Palermo,20,890.03,17800.6
+363,2025-10-15,Stampante,Accessori,Milano,29,919.15,26655.35
+364,2025-12-08,Router,Periferiche,Genova,24,2018.17,48436.08
+365,2025-05-31,Laptop,Networking,Venezia,18,833.89,15010.02
+366,2025-05-07,Webcam,Periferiche,Bologna,10,538.47,5384.700000000001
+367,2025-06-04,Monitor,Networking,Bologna,41,230.03,9431.23
+368,2025-09-30,Monitor,Accessori,Bologna,8,1177.4,9419.2
+369,2025-04-14,Tablet,Elettronica,Palermo,26,1215.69,31607.940000000002
+370,2025-10-26,Tablet,Periferiche,Roma,29,2105.45,61058.049999999996
+371,2025-09-03,Monitor,Elettronica,Milano,10,568.67,5686.7
+372,2025-06-25,Laptop,Periferiche,Bologna,17,964.86,16402.62
+373,2025-02-08,Smartphone,Accessori,Verona,2,2024.85,4049.7
+374,2025-06-19,Hard Disk,Periferiche,Genova,6,2062.59,12375.54
+375,2025-09-04,Webcam,Accessori,Torino,5,973.84,4869.2
+376,2025-01-26,Smartphone,Periferiche,Verona,28,1158.63,32441.640000000003
+377,2025-12-21,Stampante,Accessori,Milano,41,772.15,31658.149999999998
+378,2025-11-02,Hard Disk,Accessori,Palermo,5,2332.74,11663.699999999999
+379,2025-01-13,Hard Disk,Networking,Milano,18,314.24,5656.32
+380,2025-11-12,Router,Accessori,Torino,26,2335.7,60728.2
+381,2025-11-09,Laptop,Networking,Genova,20,1715.99,34319.8
+382,2025-02-05,Laptop,Accessori,Torino,41,1338.3,54870.299999999996
+383,2025-06-22,Hard Disk,Elettronica,Napoli,49,100.99,4948.509999999999
+384,2025-01-20,Router,Accessori,Genova,27,1199.48,32385.96
+385,2025-11-17,Webcam,Elettronica,Milano,49,1031.22,50529.78
+386,2025-09-21,Hard Disk,Elettronica,Bologna,12,419.82,5037.84
+387,2025-05-22,Mouse,Accessori,Milano,7,1647.9,11535.300000000001
+388,2025-05-23,Tablet,Elettronica,Milano,3,2428.45,7285.349999999999
+389,2025-04-02,Tablet,Networking,Genova,10,1414.23,14142.3
+390,2025-12-20,Smartphone,Periferiche,Napoli,34,1792.59,60948.06
+391,2025-11-18,Stampante,Accessori,Milano,25,189.76,4744.0
+392,2025-10-15,Tablet,Elettronica,Verona,35,1055.81,36953.35
+393,2025-08-03,Tastiera,Accessori,Venezia,16,308.57,4937.12
+394,2025-12-08,Smartphone,Networking,Firenze,2,1539.73,3079.46
+395,2025-02-20,Tablet,Accessori,Firenze,24,2347.44,56338.56
+396,2025-06-02,Stampante,Accessori,Milano,10,1661.21,16612.1
+397,2025-07-05,Laptop,Elettronica,Verona,38,210.47,7997.86
+398,2025-03-04,Laptop,Networking,Bologna,22,899.57,19790.54
+399,2025-07-09,Webcam,Periferiche,Palermo,26,1385.65,36026.9
+400,2025-05-05,Hard Disk,Periferiche,Palermo,43,1019.96,43858.28
+401,2025-05-30,Mouse,Elettronica,Genova,39,2087.44,81410.16
+402,2025-11-10,Laptop,Accessori,Firenze,27,2040.38,55090.26
+403,2025-02-27,Router,Elettronica,Milano,29,1537.34,44582.86
+404,2025-12-08,Tablet,Elettronica,Palermo,47,946.18,44470.46
+405,2025-11-01,Router,Elettronica,Milano,38,653.23,24822.74
+406,2025-06-29,Stampante,Accessori,Genova,20,282.57,5651.4
+407,2025-06-19,Laptop,Networking,Firenze,27,900.15,24304.05
+408,2025-11-22,Mouse,Elettronica,Torino,41,1044.67,42831.47
+409,2025-09-28,Stampante,Accessori,Venezia,20,1696.04,33920.8
+410,2025-02-23,Tastiera,Networking,Venezia,44,1652.24,72698.56
+411,2025-04-11,Tastiera,Elettronica,Palermo,19,193.87,3683.53
+412,2025-09-21,Router,Periferiche,Venezia,20,1000.24,20004.8
+413,2025-02-22,Hard Disk,Networking,Torino,35,470.81,16478.35
+414,2025-03-01,Smartphone,Elettronica,Milano,47,408.9,19218.3
+415,2025-04-18,Hard Disk,Networking,Genova,2,2071.71,4143.42
+416,2025-01-05,Webcam,Networking,Torino,30,123.95,3718.5
+417,2025-04-13,Hard Disk,Networking,Genova,34,1059.57,36025.38
+418,2025-07-15,Webcam,Networking,Genova,22,437.15,9617.3
+419,2025-09-19,Webcam,Networking,Firenze,3,2200.74,6602.219999999999
+420,2025-12-31,Mouse,Networking,Milano,6,1401.46,8408.76
+421,2025-12-16,Laptop,Elettronica,Verona,15,593.82,8907.300000000001
+422,2025-02-16,Mouse,Periferiche,Venezia,27,1266.02,34182.54
+423,2025-12-21,Webcam,Accessori,Verona,10,1834.09,18340.899999999998
+424,2025-11-07,Stampante,Networking,Firenze,9,2396.13,21565.170000000002
+425,2025-11-04,Tastiera,Accessori,Genova,33,566.71,18701.43
+426,2025-05-24,Webcam,Elettronica,Palermo,32,2217.73,70967.36
+427,2025-09-26,Mouse,Networking,Venezia,48,2337.07,112179.36000000002
+428,2025-05-04,Stampante,Periferiche,Venezia,6,2292.72,13756.32
+429,2025-04-16,Mouse,Accessori,Milano,41,1595.83,65429.03
+430,2025-06-07,Hard Disk,Networking,Napoli,36,1581.96,56950.56
+431,2025-05-27,Tablet,Elettronica,Roma,2,1019.96,2039.92
+432,2025-05-25,Router,Periferiche,Roma,29,1885.95,54692.55
+433,2025-04-30,Smartphone,Accessori,Roma,4,1337.61,5350.44
+434,2025-11-15,Mouse,Accessori,Napoli,1,1700.05,1700.05
+435,2025-10-02,Smartphone,Networking,Milano,19,1082.58,20569.019999999997
+436,2025-04-02,Monitor,Periferiche,Napoli,26,1834.11,47686.86
+437,2025-02-27,Mouse,Periferiche,Roma,25,2064.69,51617.25
+438,2025-12-12,Tablet,Periferiche,Firenze,10,383.16,3831.6000000000004
+439,2025-08-17,Smartphone,Periferiche,Torino,15,2085.67,31285.050000000003
+440,2025-04-27,Webcam,Elettronica,Genova,22,1359.94,29918.68
+441,2025-11-14,Mouse,Periferiche,Napoli,48,2114.77,101508.95999999999
+442,2025-10-06,Laptop,Accessori,Milano,21,1089.63,22882.230000000003
+443,2025-05-07,Router,Accessori,Milano,22,960.02,21120.44
+444,2025-05-09,Tablet,Elettronica,Verona,36,2289.35,82416.59999999999
+445,2025-02-27,Smartphone,Accessori,Torino,34,642.9,21858.6
+446,2025-05-02,Tablet,Accessori,Palermo,30,2113.65,63409.5
+447,2025-01-01,Stampante,Periferiche,Venezia,25,1220.37,30509.249999999996
+448,2025-08-27,Router,Accessori,Roma,45,1294.96,58273.200000000004
+449,2025-10-17,Webcam,Elettronica,Palermo,28,785.0,21980.0
+450,2025-04-06,Mouse,Periferiche,Verona,1,1441.14,1441.14
+451,2025-05-06,Mouse,Networking,Roma,49,826.52,40499.479999999996
+452,2025-04-28,Mouse,Periferiche,Torino,45,117.39,5282.55
+453,2025-02-17,Router,Elettronica,Verona,4,694.56,2778.24
+454,2025-03-30,Laptop,Periferiche,Roma,7,35.82,250.74
+455,2025-08-25,Monitor,Periferiche,Torino,49,2446.32,119869.68000000001
+456,2025-09-29,Tastiera,Elettronica,Bologna,9,2415.05,21735.45
+457,2025-07-08,Hard Disk,Periferiche,Palermo,36,999.99,35999.64
+458,2025-07-11,Smartphone,Elettronica,Palermo,19,1826.36,34700.84
+459,2025-03-10,Laptop,Elettronica,Venezia,1,877.6,877.6
+460,2025-10-05,Webcam,Networking,Torino,10,1684.31,16843.1
+461,2025-12-15,Smartphone,Accessori,Napoli,36,2017.47,72628.92
+462,2025-09-04,Mouse,Accessori,Bologna,9,2367.96,21311.64
+463,2025-03-17,Tablet,Periferiche,Firenze,45,1012.53,45563.85
+464,2025-06-03,Webcam,Periferiche,Roma,46,1962.58,90278.68
+465,2025-05-24,Smartphone,Networking,Bologna,42,679.5,28539.0
+466,2025-03-27,Mouse,Networking,Torino,32,2476.02,79232.64
+467,2025-07-04,Smartphone,Networking,Genova,32,83.91,2685.12
+468,2025-10-12,Tablet,Elettronica,Roma,6,1516.75,9100.5
+469,2025-08-08,Mouse,Networking,Milano,48,1655.57,79467.36
+470,2025-03-10,Monitor,Networking,Palermo,38,1726.35,65601.3
+471,2025-02-16,Laptop,Periferiche,Torino,17,318.56,5415.52
+472,2025-04-04,Stampante,Networking,Milano,10,2347.55,23475.5
+473,2025-08-26,Hard Disk,Elettronica,Venezia,27,469.33,12671.91
+474,2025-07-23,Router,Elettronica,Verona,35,1564.43,54755.05
+475,2025-08-06,Hard Disk,Periferiche,Firenze,21,572.24,12017.04
+476,2025-12-07,Webcam,Networking,Firenze,25,781.9,19547.5
+477,2025-02-08,Hard Disk,Networking,Milano,28,1375.22,38506.16
+478,2025-04-10,Mouse,Elettronica,Palermo,47,1054.64,49568.08
+479,2025-10-16,Monitor,Networking,Venezia,15,417.36,6260.400000000001
+480,2025-09-11,Stampante,Networking,Genova,4,443.92,1775.68
+481,2025-08-10,Laptop,Networking,Palermo,29,1057.0,30653.0
+482,2025-12-23,Laptop,Accessori,Bologna,9,1898.06,17082.54
+483,2025-01-23,Tablet,Periferiche,Firenze,27,2246.95,60667.649999999994
+484,2025-09-07,Router,Accessori,Bologna,26,228.64,5944.639999999999
+485,2025-01-10,Smartphone,Periferiche,Roma,19,994.9,18903.1
+486,2025-09-03,Monitor,Elettronica,Napoli,28,268.61,7521.08
+487,2025-11-21,Smartphone,Networking,Torino,17,61.15,1039.55
+488,2025-04-10,Stampante,Periferiche,Venezia,43,1661.06,71425.58
+489,2025-10-17,Hard Disk,Accessori,Palermo,41,1514.07,62076.869999999995
+490,2025-06-29,Laptop,Networking,Firenze,42,424.29,17820.18
+491,2025-08-11,Stampante,Elettronica,Bologna,20,599.86,11997.2
+492,2025-09-07,Hard Disk,Periferiche,Verona,45,78.8,3546.0
+493,2025-05-27,Laptop,Periferiche,Roma,40,2090.67,83626.8
+494,2025-04-06,Hard Disk,Periferiche,Torino,39,2437.23,95051.97
+495,2025-09-14,Router,Networking,Torino,49,355.94,17441.06
+496,2025-11-21,Monitor,Accessori,Palermo,23,594.06,13663.38
+497,2025-01-04,Webcam,Accessori,Venezia,47,2173.66,102162.01999999999
+498,2025-01-16,Stampante,Periferiche,Genova,32,2317.63,74164.16
+499,2025-10-07,Stampante,Elettronica,Verona,47,1060.68,49851.96000000001
+500,2025-12-02,Tastiera,Elettronica,Palermo,33,145.54,4802.82
+501,2025-09-04,Mouse,Accessori,Bologna,46,117.69,5413.74
+502,2025-09-15,Router,Elettronica,Napoli,5,1443.4,7217.0
+503,2025-06-09,Router,Accessori,Milano,43,994.38,42758.34
+504,2025-12-06,Smartphone,Periferiche,Genova,48,91.06,4370.88
+505,2025-06-01,Hard Disk,Accessori,Venezia,34,1466.47,49859.98
+506,2025-06-27,Mouse,Accessori,Roma,40,48.03,1921.2
+507,2025-06-12,Monitor,Periferiche,Genova,11,1972.68,21699.48
+508,2025-02-02,Monitor,Elettronica,Firenze,3,779.95,2339.8500000000004
+509,2025-06-28,Router,Accessori,Venezia,33,119.84,3954.7200000000003
+510,2025-04-11,Monitor,Accessori,Napoli,11,1479.11,16270.21
+511,2025-09-25,Tastiera,Periferiche,Firenze,16,1006.26,16100.16
+512,2025-11-19,Stampante,Elettronica,Genova,18,2435.03,43830.54
+513,2025-03-06,Tablet,Accessori,Milano,30,1369.61,41088.299999999996
+514,2025-06-17,Webcam,Periferiche,Milano,48,702.59,33724.32
+515,2025-11-26,Smartphone,Accessori,Napoli,10,1779.41,17794.100000000002
+516,2025-02-12,Hard Disk,Networking,Torino,18,693.3,12479.4
+517,2025-02-13,Webcam,Periferiche,Verona,38,2262.52,85975.76
+518,2025-10-12,Hard Disk,Elettronica,Roma,19,949.31,18036.89
+519,2025-01-12,Laptop,Elettronica,Torino,36,1383.67,49812.12
+520,2025-04-05,Webcam,Elettronica,Milano,13,145.42,1890.4599999999998
+521,2025-10-29,Tablet,Elettronica,Milano,46,1076.78,49531.88
+522,2025-09-10,Router,Accessori,Bologna,3,2084.26,6252.780000000001
+523,2025-08-30,Tastiera,Accessori,Firenze,10,2018.01,20180.1
+524,2025-02-04,Stampante,Elettronica,Genova,38,576.31,21899.78
+525,2025-08-03,Stampante,Elettronica,Roma,1,580.68,580.68
+526,2025-12-03,Tastiera,Elettronica,Napoli,27,2046.92,55266.840000000004
+527,2025-03-31,Mouse,Accessori,Genova,46,2327.39,107059.93999999999
+528,2025-09-21,Laptop,Elettronica,Bologna,8,256.5,2052.0
+529,2025-04-03,Hard Disk,Elettronica,Milano,46,1136.15,52262.9
+530,2025-03-31,Tablet,Networking,Napoli,42,856.89,35989.38
+531,2025-04-25,Monitor,Networking,Milano,17,2179.31,37048.27
+532,2025-04-15,Webcam,Elettronica,Roma,9,227.14,2044.2599999999998
+533,2025-07-15,Laptop,Periferiche,Firenze,6,543.59,3261.54
+534,2025-11-10,Webcam,Elettronica,Genova,43,1886.12,81103.15999999999
+535,2025-04-24,Tablet,Networking,Genova,25,147.21,3680.25
+536,2025-03-16,Smartphone,Periferiche,Torino,39,1241.49,48418.11
+537,2025-08-05,Smartphone,Periferiche,Napoli,49,1116.43,54705.07
+538,2025-10-04,Laptop,Elettronica,Verona,28,849.31,23780.68
+539,2025-09-06,Router,Networking,Bologna,33,998.54,32951.82
+540,2025-06-13,Tablet,Networking,Verona,37,1334.25,49367.25
+541,2025-12-23,Tablet,Periferiche,Torino,9,420.19,3781.71
+542,2025-07-11,Tastiera,Elettronica,Roma,18,1438.55,25893.899999999998
+543,2025-08-15,Router,Accessori,Bologna,21,2017.47,42366.87
+544,2025-06-26,Hard Disk,Accessori,Firenze,2,1905.2,3810.4
+545,2025-04-09,Hard Disk,Networking,Verona,43,401.67,17271.81
+546,2025-02-05,Monitor,Accessori,Firenze,38,390.14,14825.32
+547,2025-04-06,Stampante,Networking,Verona,40,685.07,27402.800000000003
+548,2025-06-01,Smartphone,Networking,Firenze,36,915.47,32956.92
+549,2025-05-31,Hard Disk,Networking,Verona,43,1032.97,44417.71
+550,2025-07-09,Router,Accessori,Firenze,37,1705.65,63109.05
+551,2025-08-12,Tablet,Networking,Torino,15,160.57,2408.5499999999997
+552,2025-02-06,Hard Disk,Periferiche,Venezia,28,105.99,2967.72
+553,2025-09-25,Tablet,Elettronica,Bologna,18,991.94,17854.920000000002
+554,2025-07-02,Hard Disk,Elettronica,Napoli,34,1748.97,59464.98
+555,2025-01-13,Smartphone,Networking,Roma,22,499.72,10993.84
+556,2025-10-06,Webcam,Elettronica,Palermo,11,1610.93,17720.23
+557,2025-08-05,Hard Disk,Accessori,Milano,13,664.37,8636.81
+558,2025-12-21,Router,Accessori,Napoli,4,2217.49,8869.96
+559,2025-12-27,Hard Disk,Elettronica,Milano,22,2241.31,49308.82
+560,2025-10-13,Stampante,Accessori,Bologna,7,757.27,5300.889999999999
+561,2025-09-30,Smartphone,Elettronica,Napoli,43,590.38,25386.34
+562,2025-03-03,Router,Elettronica,Firenze,24,1040.03,24960.72
+563,2025-03-25,Tastiera,Elettronica,Firenze,4,616.52,2466.08
+564,2025-08-05,Router,Networking,Palermo,28,1687.51,47250.28
+565,2025-12-08,Stampante,Elettronica,Milano,15,2068.64,31029.6
+566,2025-07-06,Webcam,Networking,Roma,1,1689.27,1689.27
+567,2025-01-19,Smartphone,Elettronica,Bologna,3,2064.39,6193.17
+568,2025-06-26,Tastiera,Elettronica,Firenze,14,1004.54,14063.56
+569,2025-04-10,Stampante,Elettronica,Venezia,38,407.67,15491.460000000001
+570,2025-08-21,Stampante,Accessori,Torino,1,1850.12,1850.12
+571,2025-03-17,Laptop,Networking,Torino,38,913.98,34731.24
+572,2025-09-22,Smartphone,Networking,Verona,38,1684.75,64020.5
+573,2025-10-11,Router,Elettronica,Roma,21,691.2,14515.2
+574,2025-07-25,Tablet,Elettronica,Torino,48,221.45,10629.599999999999
+575,2025-08-11,Webcam,Accessori,Verona,29,2481.6,71966.4
+576,2025-02-21,Tablet,Accessori,Milano,5,407.38,2036.9
+577,2025-12-05,Router,Accessori,Firenze,49,2471.28,121092.72000000002
+578,2025-05-24,Router,Networking,Firenze,10,2443.65,24436.5
+579,2025-03-10,Smartphone,Networking,Venezia,28,1988.67,55682.76
+580,2025-04-09,Router,Networking,Napoli,21,1655.37,34762.77
+581,2025-01-25,Laptop,Elettronica,Torino,7,1452.96,10170.720000000001
+582,2025-02-22,Tastiera,Networking,Milano,3,2167.93,6503.789999999999
+583,2025-05-31,Router,Periferiche,Genova,45,737.81,33201.45
+584,2025-05-24,Tablet,Periferiche,Torino,47,1179.85,55452.95
+585,2025-02-26,Router,Accessori,Roma,20,1556.09,31121.8
+586,2025-02-08,Laptop,Networking,Napoli,19,1039.75,19755.25
+587,2025-04-19,Hard Disk,Periferiche,Torino,35,1080.17,37805.950000000004
+588,2025-06-30,Hard Disk,Accessori,Milano,4,839.11,3356.44
+589,2025-02-11,Stampante,Networking,Torino,5,1419.29,7096.45
+590,2025-07-05,Webcam,Elettronica,Roma,1,2129.42,2129.42
+591,2025-08-11,Monitor,Periferiche,Genova,4,519.79,2079.16
+592,2025-05-02,Tastiera,Elettronica,Bologna,12,2337.39,28048.68
+593,2025-05-13,Mouse,Networking,Palermo,27,1728.94,46681.380000000005
+594,2025-06-12,Stampante,Periferiche,Genova,42,2061.72,86592.23999999999
+595,2025-08-03,Webcam,Networking,Verona,23,1399.35,32185.05
+596,2025-08-09,Hard Disk,Elettronica,Torino,25,1953.2,48830.0
+597,2025-08-23,Tablet,Periferiche,Firenze,21,60.18,1263.78
+598,2025-11-27,Mouse,Elettronica,Venezia,24,2049.58,49189.92
+599,2025-05-26,Webcam,Networking,Firenze,25,119.54,2988.5
+600,2025-08-27,Webcam,Networking,Genova,45,2226.99,100214.54999999999
+601,2025-03-17,Stampante,Elettronica,Firenze,46,2480.07,114083.22
+602,2025-01-09,Mouse,Periferiche,Milano,32,749.29,23977.28
+603,2025-03-15,Smartphone,Elettronica,Firenze,32,541.59,17330.88
+604,2025-09-10,Monitor,Networking,Napoli,5,1918.1,9590.5
+605,2025-08-18,Smartphone,Elettronica,Bologna,36,647.51,23310.36
+606,2025-01-07,Mouse,Networking,Torino,46,2166.59,99663.14000000001
+607,2025-06-23,Smartphone,Elettronica,Firenze,42,275.05,11552.1
+608,2025-05-21,Laptop,Periferiche,Roma,49,332.37,16286.130000000001
+609,2025-06-17,Hard Disk,Periferiche,Bologna,42,2448.3,102828.6
+610,2025-06-19,Laptop,Elettronica,Bologna,39,1691.12,65953.68
+611,2025-10-10,Router,Elettronica,Firenze,16,2120.28,33924.48
+612,2025-05-02,Smartphone,Periferiche,Bologna,33,824.34,27203.22
+613,2025-07-13,Router,Networking,Venezia,49,1697.68,83186.32
+614,2025-01-05,Tablet,Periferiche,Firenze,21,1493.72,31368.12
+615,2025-01-29,Tastiera,Networking,Milano,9,1515.81,13642.289999999999
+616,2025-06-14,Tablet,Elettronica,Genova,6,1712.68,10276.08
+617,2025-12-05,Mouse,Elettronica,Napoli,45,1446.89,65110.05
+618,2025-05-16,Webcam,Networking,Palermo,35,1084.07,37942.45
+619,2025-12-31,Hard Disk,Elettronica,Verona,39,704.29,27467.309999999998
+620,2025-11-17,Smartphone,Networking,Bologna,22,1926.08,42373.759999999995
+621,2025-12-08,Stampante,Accessori,Milano,41,581.16,23827.559999999998
+622,2025-05-25,Tastiera,Periferiche,Torino,5,1737.04,8685.2
+623,2025-11-23,Monitor,Accessori,Torino,42,598.67,25144.14
+624,2025-08-05,Monitor,Networking,Verona,23,1570.82,36128.86
+625,2025-10-28,Monitor,Periferiche,Napoli,17,1872.75,31836.75
+626,2025-05-12,Smartphone,Networking,Bologna,12,562.41,6748.92
+627,2025-10-19,Monitor,Periferiche,Venezia,23,168.66,3879.18
+628,2025-03-11,Laptop,Periferiche,Verona,16,344.81,5516.96
+629,2025-09-09,Tastiera,Periferiche,Napoli,3,1522.87,4568.61
+630,2025-10-02,Laptop,Periferiche,Bologna,30,2126.63,63798.9
+631,2025-12-30,Webcam,Networking,Milano,22,131.59,2894.98
+632,2025-07-01,Tastiera,Periferiche,Genova,9,1840.7,16566.3
+633,2025-06-16,Laptop,Periferiche,Venezia,29,866.47,25127.63
+634,2025-04-01,Tastiera,Accessori,Palermo,47,1206.75,56717.25
+635,2025-07-21,Webcam,Elettronica,Torino,37,2323.57,85972.09000000001
+636,2025-12-12,Router,Elettronica,Roma,23,843.29,19395.67
+637,2025-01-19,Smartphone,Accessori,Milano,13,1174.04,15262.52
+638,2025-02-08,Smartphone,Accessori,Torino,32,53.93,1725.76
+639,2025-05-06,Monitor,Networking,Firenze,46,222.36,10228.560000000001
+640,2025-06-22,Tablet,Networking,Roma,47,661.31,31081.569999999996
+641,2025-05-21,Monitor,Networking,Torino,48,89.07,4275.36
+642,2025-08-30,Mouse,Accessori,Napoli,23,1585.81,36473.63
+643,2025-08-08,Laptop,Accessori,Venezia,45,1077.47,48486.15
+644,2025-05-06,Tastiera,Periferiche,Torino,17,1379.4,23449.800000000003
+645,2025-02-27,Tablet,Networking,Palermo,40,453.13,18125.2
+646,2025-05-28,Webcam,Networking,Genova,21,753.91,15832.109999999999
+647,2025-11-13,Mouse,Networking,Napoli,2,1666.28,3332.56
+648,2025-12-27,Webcam,Elettronica,Milano,37,2413.95,89316.15
+649,2025-01-01,Smartphone,Periferiche,Milano,6,145.03,870.1800000000001
+650,2025-12-14,Smartphone,Networking,Milano,44,2228.15,98038.6
+651,2025-07-09,Monitor,Networking,Milano,18,1450.67,26112.06
+652,2025-07-10,Laptop,Networking,Genova,30,1418.52,42555.6
+653,2025-11-08,Tablet,Elettronica,Torino,22,1260.69,27735.18
+654,2025-04-27,Hard Disk,Elettronica,Bologna,33,192.1,6339.3
+655,2025-05-14,Mouse,Accessori,Torino,30,242.89,7286.7
+656,2025-02-27,Mouse,Periferiche,Firenze,17,1510.26,25674.42
+657,2025-02-13,Monitor,Accessori,Venezia,43,865.58,37219.94
+658,2025-06-22,Smartphone,Periferiche,Roma,32,2294.82,73434.24
+659,2025-06-09,Monitor,Elettronica,Bologna,42,1028.34,43190.28
+660,2025-06-22,Tastiera,Networking,Bologna,14,375.34,5254.759999999999
+661,2025-11-13,Tablet,Accessori,Torino,10,1792.5,17925.0
+662,2025-10-30,Laptop,Networking,Bologna,47,747.52,35133.44
+663,2025-05-29,Router,Accessori,Verona,36,1323.17,47634.12
+664,2025-03-21,Stampante,Elettronica,Verona,34,1750.63,59521.420000000006
+665,2025-08-01,Stampante,Elettronica,Firenze,9,2252.65,20273.850000000002
+666,2025-07-22,Monitor,Elettronica,Roma,42,1984.63,83354.46
+667,2025-09-09,Tastiera,Accessori,Palermo,28,1697.38,47526.64
+668,2025-08-17,Tablet,Periferiche,Genova,11,1705.49,18760.39
+669,2025-06-13,Hard Disk,Accessori,Torino,14,2365.89,33122.46
+670,2025-08-15,Stampante,Periferiche,Genova,39,753.64,29391.96
+671,2025-05-27,Tablet,Accessori,Palermo,47,22.76,1069.72
+672,2025-01-20,Laptop,Accessori,Torino,19,694.45,13194.550000000001
+673,2025-02-16,Webcam,Elettronica,Torino,15,560.37,8405.55
+674,2025-08-21,Tastiera,Networking,Roma,28,1661.35,46517.799999999996
+675,2025-11-01,Smartphone,Networking,Genova,24,1591.6,38198.399999999994
+676,2025-01-14,Tablet,Periferiche,Verona,8,1491.78,11934.24
+677,2025-05-23,Laptop,Networking,Milano,43,60.28,2592.04
+678,2025-01-01,Hard Disk,Accessori,Genova,9,1827.37,16446.329999999998
+679,2025-02-23,Router,Accessori,Venezia,47,822.36,38650.92
+680,2025-09-16,Smartphone,Elettronica,Venezia,33,1669.34,55088.219999999994
+681,2025-05-24,Router,Elettronica,Torino,33,1400.31,46210.229999999996
+682,2025-01-12,Hard Disk,Networking,Milano,19,869.97,16529.43
+683,2025-11-26,Laptop,Periferiche,Napoli,3,353.75,1061.25
+684,2025-08-12,Stampante,Networking,Palermo,10,254.16,2541.6
+685,2025-09-29,Router,Networking,Firenze,40,2082.17,83286.8
+686,2025-12-24,Smartphone,Networking,Milano,47,2297.63,107988.61
+687,2025-06-05,Monitor,Networking,Firenze,42,1631.47,68521.74
+688,2025-01-08,Mouse,Accessori,Genova,1,276.52,276.52
+689,2025-05-02,Tablet,Periferiche,Genova,29,1017.03,29493.87
+690,2025-12-14,Stampante,Accessori,Firenze,34,1827.77,62144.18
+691,2025-06-13,Router,Periferiche,Palermo,13,1953.96,25401.48
+692,2025-03-31,Webcam,Elettronica,Milano,1,313.18,313.18
+693,2025-05-16,Tablet,Networking,Napoli,34,20.08,682.7199999999999
+694,2025-07-05,Monitor,Accessori,Torino,29,1786.1,51796.899999999994
+695,2025-11-12,Hard Disk,Periferiche,Roma,48,904.36,43409.28
+696,2025-06-27,Mouse,Elettronica,Genova,47,651.11,30602.170000000002
+697,2025-01-28,Laptop,Elettronica,Venezia,13,51.99,675.87
+698,2025-08-08,Monitor,Networking,Palermo,48,1359.94,65277.12
+699,2025-12-23,Monitor,Periferiche,Roma,49,2130.85,104411.65
+700,2025-02-10,Hard Disk,Accessori,Napoli,29,2394.93,69452.97
+701,2025-08-16,Tastiera,Networking,Bologna,39,1423.05,55498.95
+702,2025-07-11,Hard Disk,Accessori,Torino,24,1295.86,31100.64
+703,2025-05-25,Tastiera,Elettronica,Genova,26,230.94,6004.44
+704,2025-07-20,Tastiera,Accessori,Torino,17,1381.2,23480.4
+705,2025-07-31,Stampante,Accessori,Roma,7,962.35,6736.45
+706,2025-08-08,Stampante,Networking,Torino,13,1525.7,19834.100000000002
+707,2025-08-28,Smartphone,Accessori,Bologna,5,984.04,4920.2
+708,2025-02-15,Router,Networking,Roma,26,615.94,16014.440000000002
+709,2025-02-04,Router,Elettronica,Genova,49,255.51,12519.99
+710,2025-09-10,Laptop,Networking,Milano,3,801.0,2403.0
+711,2025-03-23,Router,Networking,Venezia,7,259.68,1817.76
+712,2025-09-13,Stampante,Periferiche,Roma,49,458.7,22476.3
+713,2025-07-16,Smartphone,Accessori,Verona,39,2468.59,96275.01000000001
+714,2025-10-30,Smartphone,Elettronica,Bologna,1,1121.38,1121.38
+715,2025-01-10,Tastiera,Networking,Roma,49,1339.04,65612.95999999999
+716,2025-11-08,Hard Disk,Elettronica,Roma,17,2186.57,37171.69
+717,2025-10-13,Laptop,Periferiche,Verona,43,2489.01,107027.43000000001
+718,2025-08-30,Tastiera,Accessori,Genova,25,1465.13,36628.25
+719,2025-09-08,Hard Disk,Networking,Roma,3,2034.94,6104.82
+720,2025-12-31,Router,Accessori,Venezia,15,830.81,12462.15
+721,2025-01-05,Tastiera,Periferiche,Torino,29,778.25,22569.25
+722,2025-04-29,Tablet,Periferiche,Genova,43,1018.71,43804.53
+723,2025-10-16,Router,Elettronica,Venezia,32,1687.82,54010.24
+724,2025-03-06,Hard Disk,Networking,Genova,26,1711.84,44507.84
+725,2025-05-26,Laptop,Elettronica,Venezia,16,801.79,12828.64
+726,2025-08-12,Hard Disk,Periferiche,Bologna,25,350.36,8759.0
+727,2025-08-27,Tastiera,Accessori,Venezia,28,1588.34,44473.52
+728,2025-06-26,Tastiera,Elettronica,Firenze,9,338.25,3044.25
+729,2025-09-24,Monitor,Elettronica,Venezia,1,1454.66,1454.66
+730,2025-12-07,Laptop,Accessori,Milano,29,1739.69,50451.01
+731,2025-10-09,Webcam,Elettronica,Milano,22,1757.52,38665.44
+732,2025-03-04,Router,Accessori,Palermo,16,1888.61,30217.76
+733,2025-08-05,Smartphone,Networking,Firenze,41,2184.69,89572.29000000001
+734,2025-12-08,Laptop,Accessori,Firenze,44,1259.9,55435.600000000006
+735,2025-11-11,Smartphone,Networking,Torino,41,1831.02,75071.81999999999
+736,2025-10-10,Laptop,Accessori,Firenze,7,1555.55,10888.85
+737,2025-06-26,Laptop,Periferiche,Torino,14,482.87,6760.18
+738,2025-04-08,Hard Disk,Periferiche,Palermo,29,83.71,2427.5899999999997
+739,2025-04-15,Laptop,Networking,Palermo,19,725.66,13787.539999999999
+740,2025-04-09,Monitor,Networking,Bologna,19,1118.72,21255.68
+741,2025-11-07,Webcam,Periferiche,Milano,2,1550.42,3100.84
+742,2025-01-06,Tastiera,Networking,Venezia,41,2127.9,87243.90000000001
+743,2025-07-16,Mouse,Accessori,Venezia,45,506.69,22801.05
+744,2025-12-17,Smartphone,Accessori,Verona,15,331.36,4970.400000000001
+745,2025-05-13,Tastiera,Periferiche,Verona,3,2409.43,7228.289999999999
+746,2025-12-24,Mouse,Elettronica,Napoli,11,287.95,3167.45
+747,2025-09-16,Webcam,Accessori,Genova,46,1206.66,55506.36
+748,2025-01-23,Webcam,Networking,Bologna,30,1472.2,44166.0
+749,2025-02-22,Smartphone,Elettronica,Napoli,40,1362.61,54504.399999999994
+750,2025-06-14,Smartphone,Elettronica,Napoli,18,233.36,4200.4800000000005
+751,2025-07-21,Webcam,Accessori,Roma,48,161.43,7748.64
+752,2025-03-24,Mouse,Accessori,Roma,2,281.6,563.2
+753,2025-05-25,Laptop,Elettronica,Napoli,32,1472.26,47112.32
+754,2025-03-26,Router,Elettronica,Firenze,8,1369.98,10959.84
+755,2025-03-19,Tablet,Periferiche,Genova,22,599.68,13192.96
+756,2025-01-01,Tastiera,Networking,Bologna,6,1601.68,9610.08
+757,2025-02-20,Hard Disk,Periferiche,Napoli,12,2053.77,24645.239999999998
+758,2025-06-22,Tastiera,Accessori,Venezia,47,123.12,5786.64
+759,2025-07-24,Hard Disk,Periferiche,Genova,40,1255.36,50214.399999999994
+760,2025-09-17,Mouse,Periferiche,Roma,36,1729.49,62261.64
+761,2025-10-15,Hard Disk,Periferiche,Venezia,15,645.73,9685.95
+762,2025-02-03,Smartphone,Periferiche,Roma,28,783.27,21931.559999999998
+763,2025-12-14,Router,Networking,Roma,49,1541.82,75549.18
+764,2025-04-05,Router,Networking,Genova,45,2246.88,101109.6
+765,2025-03-13,Smartphone,Elettronica,Roma,18,2028.61,36514.979999999996
+766,2025-02-08,Monitor,Accessori,Palermo,2,1466.16,2932.32
+767,2025-06-03,Mouse,Periferiche,Milano,13,1830.95,23802.350000000002
+768,2025-09-07,Monitor,Elettronica,Palermo,45,924.76,41614.2
+769,2025-06-11,Monitor,Elettronica,Milano,15,1609.59,24143.85
+770,2025-04-28,Tastiera,Elettronica,Verona,20,1176.13,23522.600000000002
+771,2025-09-16,Webcam,Networking,Verona,29,491.04,14240.16
+772,2025-11-02,Tastiera,Periferiche,Roma,42,1760.31,73933.02
+773,2025-09-25,Webcam,Periferiche,Bologna,29,1400.03,40600.87
+774,2025-02-23,Tablet,Accessori,Bologna,3,909.38,2728.14
+775,2025-08-24,Hard Disk,Periferiche,Milano,19,2280.12,43322.28
+776,2025-08-10,Webcam,Periferiche,Venezia,3,71.92,215.76
+777,2025-09-08,Smartphone,Elettronica,Genova,14,803.12,11243.68
+778,2025-11-09,Tastiera,Accessori,Roma,40,161.07,6442.799999999999
+779,2025-04-22,Mouse,Periferiche,Genova,4,1920.99,7683.96
+780,2025-09-12,Hard Disk,Networking,Palermo,11,1761.23,19373.53
+781,2025-10-30,Tablet,Periferiche,Bologna,31,841.75,26094.25
+782,2025-07-26,Webcam,Elettronica,Firenze,43,1695.64,72912.52
+783,2025-08-17,Tablet,Networking,Palermo,32,1001.92,32061.44
+784,2025-12-07,Mouse,Elettronica,Palermo,27,1895.51,51178.77
+785,2025-03-07,Monitor,Periferiche,Milano,30,1146.38,34391.4
+786,2025-03-16,Router,Networking,Torino,43,1042.45,44825.35
+787,2025-04-13,Mouse,Accessori,Palermo,2,2338.13,4676.26
+788,2025-07-11,Stampante,Accessori,Roma,49,642.18,31466.819999999996
+789,2025-09-09,Mouse,Networking,Napoli,9,318.71,2868.39
+790,2025-08-14,Tablet,Networking,Napoli,28,1469.67,41150.76
+791,2025-10-21,Smartphone,Elettronica,Roma,31,2423.92,75141.52
+792,2025-11-02,Tastiera,Networking,Torino,34,957.04,32539.36
+793,2025-04-08,Smartphone,Elettronica,Torino,15,173.85,2607.75
+794,2025-12-04,Tablet,Periferiche,Milano,48,861.48,41351.04
+795,2025-10-13,Tastiera,Elettronica,Bologna,25,1274.71,31867.75
+796,2025-12-01,Stampante,Networking,Genova,36,421.57,15176.52
+797,2025-12-13,Router,Networking,Torino,8,1652.09,13216.72
+798,2025-11-04,Hard Disk,Periferiche,Firenze,9,2494.42,22449.78
+799,2025-09-06,Tablet,Networking,Milano,37,1140.31,42191.47
+800,2025-06-15,Webcam,Networking,Verona,48,899.73,43187.04
+801,2025-12-01,Tablet,Accessori,Venezia,45,1013.75,45618.75
+802,2025-01-30,Tablet,Accessori,Verona,39,305.56,11916.84
+803,2025-09-04,Tastiera,Periferiche,Milano,32,2210.52,70736.64
+804,2025-04-16,Laptop,Elettronica,Palermo,17,1048.77,17829.09
+805,2025-02-20,Mouse,Accessori,Genova,35,980.44,34315.4
+806,2025-03-22,Laptop,Elettronica,Venezia,37,1656.03,61273.11
+807,2025-05-13,Stampante,Networking,Verona,19,1116.24,21208.56
+808,2025-10-12,Webcam,Accessori,Venezia,44,1627.62,71615.28
+809,2025-05-18,Router,Periferiche,Firenze,29,172.39,4999.3099999999995
+810,2025-07-03,Monitor,Periferiche,Firenze,7,2038.03,14266.21
+811,2025-11-26,Stampante,Periferiche,Firenze,28,2352.45,65868.59999999999
+812,2025-09-30,Monitor,Accessori,Milano,9,1628.94,14660.460000000001
+813,2025-12-06,Monitor,Elettronica,Genova,28,2387.32,66844.96
+814,2025-03-10,Router,Networking,Milano,6,395.55,2373.3
+815,2025-02-03,Smartphone,Elettronica,Napoli,29,1203.99,34915.71
+816,2025-09-19,Laptop,Elettronica,Palermo,17,1512.48,25712.16
+817,2025-02-22,Tablet,Networking,Palermo,16,1462.71,23403.36
+818,2025-07-24,Hard Disk,Networking,Firenze,23,1015.63,23359.49
+819,2025-05-06,Monitor,Accessori,Napoli,31,858.45,26611.95
+820,2025-08-23,Webcam,Accessori,Torino,3,334.52,1003.56
+821,2025-02-12,Stampante,Accessori,Torino,21,991.52,20821.92
+822,2025-08-28,Smartphone,Accessori,Firenze,26,423.4,11008.4
+823,2025-04-21,Monitor,Accessori,Verona,36,1841.23,66284.28
+824,2025-09-06,Smartphone,Networking,Milano,42,537.9,22591.8
+825,2025-05-31,Smartphone,Elettronica,Firenze,37,165.24,6113.88
+826,2025-07-02,Monitor,Accessori,Bologna,22,1389.87,30577.14
+827,2025-12-02,Tastiera,Accessori,Venezia,42,1496.17,62839.14
+828,2025-04-05,Mouse,Elettronica,Palermo,12,2182.34,26188.08
+829,2025-01-08,Webcam,Accessori,Torino,42,1450.91,60938.22
+830,2025-12-26,Tablet,Elettronica,Roma,13,876.79,11398.27
+831,2025-07-03,Tablet,Elettronica,Torino,11,2011.47,22126.170000000002
+832,2025-10-08,Webcam,Networking,Palermo,16,1359.89,21758.24
+833,2025-07-14,Tastiera,Periferiche,Venezia,8,216.62,1732.96
+834,2025-12-18,Tablet,Networking,Palermo,40,1423.31,56932.399999999994
+835,2025-07-14,Smartphone,Periferiche,Roma,40,2271.89,90875.59999999999
+836,2025-06-04,Router,Periferiche,Firenze,45,1002.86,45128.7
+837,2025-04-03,Stampante,Periferiche,Napoli,2,754.89,1509.78
+838,2025-06-09,Laptop,Accessori,Roma,30,375.8,11274.0
+839,2025-03-02,Tablet,Networking,Palermo,30,395.58,11867.4
+840,2025-05-02,Webcam,Periferiche,Palermo,12,1093.27,13119.24
+841,2025-02-20,Router,Elettronica,Bologna,10,1497.29,14972.9
+842,2025-10-04,Monitor,Accessori,Bologna,44,219.93,9676.92
+843,2025-01-05,Mouse,Networking,Genova,11,2350.13,25851.43
+844,2025-04-02,Webcam,Periferiche,Bologna,15,1892.73,28390.95
+845,2025-06-19,Smartphone,Elettronica,Milano,16,1474.83,23597.28
+846,2025-11-13,Mouse,Networking,Napoli,17,2074.53,35267.01
+847,2025-01-22,Stampante,Networking,Venezia,26,218.86,5690.360000000001
+848,2025-11-22,Stampante,Accessori,Roma,2,1202.56,2405.12
+849,2025-01-01,Tastiera,Networking,Palermo,12,1582.63,18991.56
+850,2025-05-13,Hard Disk,Accessori,Genova,26,2075.06,53951.56
+851,2025-08-21,Tastiera,Periferiche,Genova,23,1963.0,45149.0
+852,2025-01-12,Router,Accessori,Venezia,18,707.13,12728.34
+853,2025-12-12,Mouse,Elettronica,Napoli,32,2353.38,75308.16
+854,2025-02-15,Hard Disk,Accessori,Roma,49,328.38,16090.619999999999
+855,2025-02-03,Monitor,Elettronica,Torino,38,2190.33,83232.54
+856,2025-03-19,Smartphone,Accessori,Bologna,47,2427.93,114112.70999999999
+857,2025-08-06,Mouse,Networking,Firenze,3,459.34,1378.02
+858,2025-10-28,Tastiera,Periferiche,Genova,38,1810.72,68807.36
+859,2025-03-14,Laptop,Elettronica,Bologna,3,119.91,359.73
+860,2025-10-09,Hard Disk,Accessori,Bologna,30,1025.45,30763.5
+861,2025-09-06,Hard Disk,Accessori,Milano,1,1300.38,1300.38
+862,2025-02-16,Smartphone,Accessori,Napoli,30,1460.0,43800.0
+863,2025-05-01,Tablet,Networking,Firenze,45,2341.12,105350.4
+864,2025-08-02,Stampante,Networking,Torino,32,1687.18,53989.76
+865,2025-08-27,Stampante,Elettronica,Palermo,28,1213.57,33979.96
+866,2025-02-25,Laptop,Elettronica,Milano,21,2027.99,42587.79
+867,2025-12-16,Router,Networking,Bologna,46,2377.32,109356.72
+868,2025-04-17,Router,Elettronica,Bologna,13,74.72,971.36
+869,2025-11-15,Monitor,Periferiche,Verona,27,2456.65,66329.55
+870,2025-02-17,Mouse,Periferiche,Firenze,36,233.61,8409.960000000001
+871,2025-03-02,Webcam,Networking,Firenze,7,2039.68,14277.76
+872,2025-12-03,Tablet,Elettronica,Verona,22,715.23,15735.060000000001
+873,2025-01-26,Tastiera,Accessori,Firenze,10,347.81,3478.1
+874,2025-10-19,Webcam,Periferiche,Bologna,39,1110.84,43322.759999999995
+875,2025-09-14,Webcam,Networking,Genova,15,1617.01,24255.15
+876,2025-01-08,Hard Disk,Elettronica,Roma,15,964.76,14471.4
+877,2025-04-23,Laptop,Networking,Bologna,4,155.32,621.28
+878,2025-12-21,Stampante,Accessori,Milano,32,1506.66,48213.12
+879,2025-09-10,Monitor,Periferiche,Napoli,23,2257.96,51933.08
+880,2025-06-29,Router,Networking,Verona,6,970.37,5822.22
+881,2025-07-26,Laptop,Networking,Torino,24,556.51,13356.24
+882,2025-10-30,Hard Disk,Networking,Palermo,20,1117.59,22351.8
+883,2025-05-07,Tastiera,Accessori,Torino,37,139.94,5177.78
+884,2025-02-25,Monitor,Networking,Bologna,20,2054.81,41096.2
+885,2025-08-02,Hard Disk,Accessori,Milano,12,2069.33,24831.96
+886,2025-01-14,Stampante,Accessori,Bologna,33,1478.24,48781.92
+887,2025-01-28,Stampante,Accessori,Napoli,28,895.7,25079.600000000002
+888,2025-03-19,Stampante,Periferiche,Genova,8,2003.46,16027.68
+889,2025-08-04,Laptop,Periferiche,Palermo,1,1395.62,1395.62
+890,2025-12-31,Laptop,Networking,Napoli,37,2068.31,76527.47
+891,2025-06-03,Router,Networking,Verona,22,1586.02,34892.44
+892,2025-01-14,Router,Periferiche,Verona,6,1965.33,11791.98
+893,2025-07-06,Tastiera,Elettronica,Bologna,21,1504.44,31593.24
+894,2025-11-08,Monitor,Periferiche,Milano,32,1047.07,33506.24
+895,2025-01-07,Smartphone,Accessori,Napoli,35,2395.71,83849.85
+896,2025-01-03,Smartphone,Periferiche,Venezia,15,1361.96,20429.4
+897,2025-04-21,Hard Disk,Accessori,Milano,5,1520.62,7603.099999999999
+898,2025-08-26,Stampante,Networking,Genova,46,566.81,26073.26
+899,2025-12-29,Monitor,Elettronica,Verona,48,1571.61,75437.28
+900,2025-08-27,Webcam,Networking,Bologna,6,1437.59,8625.539999999999
+901,2025-10-01,Laptop,Accessori,Firenze,25,478.4,11960.0
+902,2025-10-21,Mouse,Accessori,Verona,46,167.78,7717.88
+903,2025-08-15,Tablet,Accessori,Palermo,40,1518.81,60752.399999999994
+904,2025-01-15,Tastiera,Elettronica,Roma,29,1913.96,55504.840000000004
+905,2025-07-11,Stampante,Periferiche,Firenze,7,1318.04,9226.279999999999
+906,2025-04-29,Stampante,Networking,Bologna,40,582.4,23296.0
+907,2025-01-28,Stampante,Networking,Venezia,13,1672.97,21748.61
+908,2025-07-21,Laptop,Periferiche,Firenze,38,218.66,8309.08
+909,2025-02-08,Laptop,Networking,Palermo,18,1115.75,20083.5
+910,2025-09-30,Tablet,Elettronica,Milano,2,425.15,850.3
+911,2025-08-19,Webcam,Networking,Venezia,8,477.46,3819.68
+912,2025-03-27,Monitor,Accessori,Verona,11,521.69,5738.59
+913,2025-05-06,Stampante,Periferiche,Venezia,33,979.03,32307.989999999998
+914,2025-10-27,Smartphone,Elettronica,Napoli,38,146.85,5580.3
+915,2025-01-25,Router,Periferiche,Palermo,48,1006.53,48313.44
+916,2025-05-25,Smartphone,Elettronica,Firenze,27,1289.03,34803.81
+917,2025-01-13,Hard Disk,Accessori,Napoli,20,1218.57,24371.399999999998
+918,2025-07-31,Smartphone,Periferiche,Venezia,12,969.3,11631.599999999999
+919,2025-01-25,Hard Disk,Networking,Napoli,43,2101.08,90346.44
+920,2025-03-09,Mouse,Elettronica,Torino,31,380.41,11792.710000000001
+921,2025-03-08,Router,Periferiche,Palermo,27,1274.13,34401.51
+922,2025-08-21,Smartphone,Networking,Genova,32,173.86,5563.52
+923,2025-04-19,Mouse,Periferiche,Milano,10,196.47,1964.7
+924,2025-05-26,Tastiera,Periferiche,Venezia,3,1443.19,4329.57
+925,2025-04-21,Monitor,Periferiche,Palermo,45,1423.73,64067.85
+926,2025-08-16,Mouse,Elettronica,Genova,27,2197.52,59333.04
+927,2025-04-21,Monitor,Networking,Genova,35,1403.53,49123.549999999996
+928,2025-02-03,Smartphone,Accessori,Bologna,31,2400.28,74408.68000000001
+929,2025-04-21,Webcam,Elettronica,Napoli,15,140.76,2111.3999999999996
+930,2025-09-21,Mouse,Elettronica,Genova,16,263.06,4208.96
+931,2025-08-24,Router,Elettronica,Torino,13,129.28,1680.64
+932,2025-03-24,Smartphone,Accessori,Palermo,49,479.49,23495.010000000002
+933,2025-02-11,Stampante,Networking,Roma,35,1362.35,47682.25
+934,2025-04-11,Laptop,Networking,Roma,11,1621.02,17831.22
+935,2025-01-06,Mouse,Networking,Venezia,21,133.05,2794.05
+936,2025-06-29,Router,Periferiche,Verona,11,2366.01,26026.11
+937,2025-10-09,Tastiera,Periferiche,Napoli,30,2108.57,63257.100000000006
+938,2025-11-16,Stampante,Periferiche,Verona,48,755.6,36268.8
+939,2025-08-14,Tastiera,Accessori,Genova,35,211.43,7400.05
+940,2025-11-11,Smartphone,Periferiche,Palermo,22,441.32,9709.039999999999
+941,2025-12-31,Laptop,Accessori,Venezia,38,334.82,12723.16
+942,2025-08-17,Mouse,Networking,Firenze,31,325.74,10097.94
+943,2025-10-16,Mouse,Periferiche,Genova,14,1306.03,18284.42
+944,2025-05-30,Webcam,Periferiche,Napoli,24,629.7,15112.800000000001
+945,2025-10-04,Webcam,Elettronica,Roma,49,908.19,44501.310000000005
+946,2025-07-17,Smartphone,Accessori,Bologna,32,2473.97,79167.04
+947,2025-03-11,Smartphone,Networking,Palermo,36,1717.1,61815.6
+948,2025-04-22,Laptop,Elettronica,Milano,32,2373.47,75951.04
+949,2025-01-04,Webcam,Elettronica,Verona,15,373.54,5603.1
+950,2025-12-16,Router,Networking,Venezia,43,967.71,41611.53
+951,2025-11-27,Router,Elettronica,Verona,35,1395.73,48850.55
+952,2025-11-14,Laptop,Accessori,Palermo,3,210.36,631.08
+953,2025-12-16,Router,Accessori,Verona,16,30.38,486.08
+954,2025-04-05,Hard Disk,Periferiche,Palermo,5,1682.68,8413.4
+955,2025-06-01,Monitor,Elettronica,Verona,21,1611.71,33845.91
+956,2025-11-07,Laptop,Periferiche,Torino,10,1038.76,10387.6
+957,2025-05-17,Laptop,Elettronica,Firenze,19,1234.32,23452.079999999998
+958,2025-09-04,Tablet,Accessori,Genova,25,1050.3,26257.5
+959,2025-08-31,Stampante,Accessori,Genova,4,79.53,318.12
+960,2025-01-31,Stampante,Accessori,Napoli,29,851.72,24699.88
+961,2025-02-09,Hard Disk,Elettronica,Milano,19,459.16,8724.04
+962,2025-08-17,Webcam,Accessori,Milano,43,264.09,11355.869999999999
+963,2025-02-05,Smartphone,Elettronica,Napoli,2,2392.67,4785.34
+964,2025-08-11,Smartphone,Periferiche,Bologna,10,1506.41,15064.1
+965,2025-01-06,Tastiera,Elettronica,Genova,43,1827.07,78564.01
+966,2025-11-18,Hard Disk,Periferiche,Bologna,25,802.1,20052.5
+967,2025-08-08,Laptop,Elettronica,Palermo,20,995.0,19900.0
+968,2025-03-16,Hard Disk,Periferiche,Palermo,48,607.57,29163.36
+969,2025-01-04,Hard Disk,Accessori,Roma,19,260.47,4948.93
+970,2025-12-01,Hard Disk,Periferiche,Verona,23,464.0,10672.0
+971,2025-05-14,Stampante,Accessori,Milano,24,1997.83,47947.92
+972,2025-04-28,Hard Disk,Accessori,Roma,11,1700.31,18703.41
+973,2025-04-04,Monitor,Periferiche,Firenze,46,1376.38,63313.48
+974,2025-03-03,Smartphone,Elettronica,Napoli,34,1198.22,40739.48
+975,2025-07-13,Tastiera,Elettronica,Napoli,28,2307.64,64613.92
+976,2025-12-01,Monitor,Networking,Palermo,5,200.38,1001.9
+977,2025-07-22,Tastiera,Elettronica,Genova,5,715.89,3579.45
+978,2025-01-26,Tablet,Networking,Bologna,21,887.85,18644.850000000002
+979,2025-06-22,Tastiera,Elettronica,Milano,12,1960.42,23525.04
+980,2025-10-27,Smartphone,Elettronica,Roma,4,2481.44,9925.76
+981,2025-05-13,Smartphone,Accessori,Bologna,49,616.86,30226.14
+982,2025-11-22,Hard Disk,Networking,Roma,42,2188.28,91907.76000000001
+983,2025-04-28,Mouse,Elettronica,Verona,20,2079.94,41598.8
+984,2025-11-20,Tablet,Networking,Firenze,38,577.15,21931.7
+985,2025-10-02,Laptop,Accessori,Firenze,25,1010.34,25258.5
+986,2025-07-31,Router,Accessori,Bologna,14,1035.99,14503.86
+987,2025-08-13,Tastiera,Networking,Bologna,11,2445.99,26905.89
+988,2025-01-20,Mouse,Accessori,Bologna,32,468.61,14995.52
+989,2025-04-23,Hard Disk,Periferiche,Roma,11,2001.91,22021.010000000002
+990,2025-05-20,Stampante,Periferiche,Verona,18,848.8,15278.4
+991,2025-02-16,Laptop,Accessori,Torino,27,1832.56,49479.119999999995
+992,2025-01-01,Webcam,Periferiche,Bologna,18,1061.63,19109.340000000004
+993,2025-03-31,Mouse,Elettronica,Genova,23,1454.33,33449.59
+994,2025-05-22,Stampante,Networking,Milano,11,2084.88,22933.68
+995,2025-11-16,Tablet,Elettronica,Milano,21,2014.33,42300.93
+996,2025-02-07,Hard Disk,Networking,Roma,44,2168.73,95424.12
+997,2025-10-20,Laptop,Accessori,Bologna,5,167.85,839.25
+998,2025-05-19,Laptop,Elettronica,Palermo,23,1736.29,39934.67
+999,2025-12-22,Laptop,Accessori,Napoli,41,367.17,15053.970000000001
+1000,2025-11-29,Tablet,Accessori,Torino,25,1051.23,26280.75
